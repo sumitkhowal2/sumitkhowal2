@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/sumitkhowal2" target="blank"><img src="https://img.shields.io/twitter/follow/sumitkhowal2?logo=twitter&style=for-the-badge" alt="sumitkhowal2" /></a> </p>
 
-- 🔭 I’m currently working on [E-Commerce Web-Application](sumitkhowal2.github.io/ecommerce)
+- 🔭 I’m currently working on [Utarsh Classes Jodhpur](https://utkarsh.com/)
 
 - 🌱 I’m currently learning **React,Node.js**
 
@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [https://sumit-khowal-tech-company.business.site/](https://sumit-khowal-tech-company.business.site/)
 
-- 💬 Ask me about **HTML,JavaScript**
+- 💬 Ask me about **HTML,Css,Bootstrap(5),JavaScript**
 
 - 📫 How to reach me **sumitkhowal2@gmail.com**
 

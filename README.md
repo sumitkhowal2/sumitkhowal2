@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/sumitkhowal2" target="blank"><img src="https://img.shields.io/twitter/follow/sumitkhowal2?logo=twitter&style=for-the-badge" alt="sumitkhowal2" /></a> </p>
 
-- 🔭 I’m currently working with [Utarsh Classes Jodhpur](https://utkarsh.com/)
+- 🔭 I’m currently working with [Utkarsh Classes Jodhpur](https://utkarsh.com/)
 
 - 🌱 I’m currently learning **React,Node.js**
 

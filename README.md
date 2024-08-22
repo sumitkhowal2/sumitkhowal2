@@ -1,5 +1,5 @@
 ![logo](https://github.com/sumitkhowal2/sumitkhowal2/blob/main/Sumit%20Frontend%20developer%20banner.png)
-<h1 align="center" style="display:flex;align-item:center;justify-content:center;">Hi <img src="https://github.com/sumitkhowal2/sumitkhowal2/blob/main/icons8-smile-30.png" /> , I'm Sumit Khowal <img src="https://github.com/sumitkhowal2/sumitkhowal2/blob/main/icons8-developer-48.png"/> </h1> 
+<h1  style=" display: flex; align-items: center;justify-content: center;">Hi <img src="https://github.com/sumitkhowal2/sumitkhowal2/blob/main/icons8-smile-30.png" /> , I'm Sumit Khowal <img src="https://github.com/sumitkhowal2/sumitkhowal2/blob/main/icons8-developer-48.png"/> </h1> 
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="300" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"/>
 

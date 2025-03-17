@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React,Node.js**
 
-- 👨‍💻 All of my projects are available at [https://sumitkhowal2.github.io/sumit_portfolio](https://sumitkhowal2.github.io/sumit_portfolio)
+- 👨‍💻 All of my projects are available at [https://sumitkhowal2.github.io/sumit_portfolio](https://sumitkhowal2.github.io/portfolio)
 
 - 📝 I regularly write articles on [https://sumit-khowal-tech-company.business.site/](https://sumit-khowal-tech-company.business.site/)
 
